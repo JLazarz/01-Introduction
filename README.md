@@ -64,3 +64,5 @@ The grading criteria will be as follows:
 * [2] Adds interesting features (beyond the scope of the assignment)
 
 20 points total
+
+Response. In this file, I have answered all of the question that ere asked of me in an appropriate manner. I answered the questions by typing out the code "print('')" and puting an answer in the apostrophies.
